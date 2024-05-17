@@ -27,12 +27,11 @@ To run an Apache server on your Android device, I recommend using the KSWeb Pro 
 
 ### How to Use:
 1. Place your project folder in the `htdocs` directory.
-   <img src="https://github.com/DaniJounblat1/Back-end-on-Android/assets/166136488/a5d57eb4-3547-4711-8529-23c2e1694af8" alt="htdocs" width="200px">
+   
 2. Turn on Apache, MySQL, and PHP servers.
 
 ## Step 3: Run Your PHP
 You're all set! Use the following links to access localhost and phpMyAdmin for database management with SQL.
-<li><img src="https://github.com/DaniJounblat1/Back-end-on-Android/assets/166136488/23f5eb04-00b2-41c7-8455-a98c16a48243" alt="KSWeb" width="200px"></li>
 
 ## Troubleshooting
 - **Issue**: Pages stop working.
